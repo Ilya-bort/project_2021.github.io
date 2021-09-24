@@ -560,14 +560,14 @@ h1, h2, h3, h4, h5, h6 {
   right: 0; }
 
 .slick-prev.slick-arrow {
-  background: url("../images/icons/10/fa-angle-left.svg") center no-repeat;
+  background: url("fa-angle-left_2.svg") center no-repeat;
   width: 8px;
   height: 14px;
   padding: 18px 15px;
   background-color: #c0301c; }
 
 .slick-next.slick-arrow {
-  background: url("../images/icons/09/fa-angle-left.svg") center no-repeat;
+  background: url("fa-angle-left.svg") center no-repeat;
   width: 8px;
   height: 14px;
   padding: 18px 15px;
@@ -763,7 +763,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 5px; }
 
 .parallax {
-  background: url(../images/14/Layer-29.png) center/cover fixed no-repeat;
+  background: url("Layer-29.png") center/cover fixed no-repeat;
   padding: 100px 0px;
   position: relative; }
   @media (max-width: 640px) {
