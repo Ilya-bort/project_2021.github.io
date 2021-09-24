@@ -763,7 +763,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 5px; }
 
 .parallax {
-  background: url(images/14/Layer-29.png) center/cover fixed no-repeat;
+  background: url(../images/14/Layer-29.png) center/cover fixed no-repeat;
   padding: 100px 0px;
   position: relative; }
   @media (max-width: 640px) {
